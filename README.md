@@ -4,7 +4,7 @@ Messaging BOT (WhatsApp) from scratch using modern automated testing tools with 
 
 This bot was created with python (basics) and using Selenium. As well, I used tools as chromedriver and XPATH
 
-##Resources:
+## Resources:
 
 ### Selenium:
 [https://selenium-python.readthedocs.io/getting-started.html]
